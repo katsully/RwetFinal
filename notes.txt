@@ -1,0 +1,7 @@
+markov cahin with one story ballet and all cosmo text
+
+pattern python lib/ clips - chunking
+	does this sentence phrases - does this contain the wanted sub?
+	look at source text in Allison's github
+	sam l's github - patent generator
+	
